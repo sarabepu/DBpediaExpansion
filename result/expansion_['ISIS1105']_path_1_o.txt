@@ -1,0 +1,217 @@
+**Vecinos con expansion de 5**
++------------------------+
+|       Originals        |
++------------------------+
+|       Algorithm        |
+|    Greedy algorithm    |
+|  Dynamic programming   |
+| Shortest path problem  |
+| Analysis of algorithms |
++------------------------+
++--------------------------------------+
+|              Expansion               |
++--------------------------------------+
+|           Complexity class           |
+|         Algorithms (journal)         |
+| 9 Algorithms that Changed the Future |
+|         Algorithms Unlocked          |
+|            Turing machine            |
+|                ProBiS                |
+|          List of algorithms          |
+|      Introduction to Algorithms      |
++--------------------------------------+
+# of New Concepts: 8
+
+**Vecinos con expansion de 10**
++---------------------------------+
+|            Originals            |
++---------------------------------+
+|            Algorithm            |
+|         Greedy algorithm        |
+|       Dynamic programming       |
+|      Shortest path problem      |
+|      Analysis of algorithms     |
+|         Nonlinear system        |
+| Computational complexity theory |
+|            Semantics            |
+|   Graph (discrete mathematics)  |
+|              Axiom              |
++---------------------------------+
++--------------------------------------------------+
+|                    Expansion                     |
++--------------------------------------------------+
+|               Algorithms Unlocked                |
+|               Algorithms (journal)               |
+| List of nonlinear partial differential equations |
+|            Linguistics and Philosophy            |
+|                      ProBiS                      |
+|              Nonlinearity (journal)              |
+|          Language in Thought and Action          |
+|            Introduction to Algorithms            |
+|             Combinatorial explosion              |
+|       9 Algorithms that Changed the Future       |
+|         Journal of Biomedical Semantics          |
+|                  Turing machine                  |
+|             Glossary of graph theory             |
+|                  Directed graph                  |
+|                    The Groop                     |
+|                 Complexity class                 |
+|             The Incredible Penguins              |
+|               LEMON (C++ library)                |
+|                   The Dingoes                    |
+|                List of algorithms                |
++--------------------------------------------------+
+# of New Concepts: 20
+
+**Vecinos con expansion de 15**
++---------------------------------+
+|            Originals            |
++---------------------------------+
+|            Algorithm            |
+|         Greedy algorithm        |
+|       Dynamic programming       |
+|      Shortest path problem      |
+|      Analysis of algorithms     |
+|         Nonlinear system        |
+| Computational complexity theory |
+|            Semantics            |
+|   Graph (discrete mathematics)  |
+|              Axiom              |
+|   Divide-and-conquer algorithm  |
+|         Linear equation         |
+|        Depth-first search       |
+|         Time complexity         |
+|      Operational semantics      |
++---------------------------------+
++--------------------------------------------------+
+|                    Expansion                     |
++--------------------------------------------------+
+|               Algorithms Unlocked                |
+|               Algorithms (journal)               |
+| List of nonlinear partial differential equations |
+|            Linguistics and Philosophy            |
+|                      ProBiS                      |
+|              Nonlinearity (journal)              |
+|          Language in Thought and Action          |
+|            Introduction to Algorithms            |
+|             Combinatorial explosion              |
+|       9 Algorithms that Changed the Future       |
+|         Journal of Biomedical Semantics          |
+|                  Turing machine                  |
+|             Glossary of graph theory             |
+|                  Directed graph                  |
+|                    The Groop                     |
+|                 Complexity class                 |
+|             The Incredible Penguins              |
+|               LEMON (C++ library)                |
+|                   The Dingoes                    |
+|                List of algorithms                |
++--------------------------------------------------+
+# of New Concepts: 20
+
+**Vecinos con expansion de 24**
++---------------------------------+
+|            Originals            |
++---------------------------------+
+|            Algorithm            |
+|         Greedy algorithm        |
+|       Dynamic programming       |
+|      Shortest path problem      |
+|      Analysis of algorithms     |
+|         Nonlinear system        |
+| Computational complexity theory |
+|            Semantics            |
+|   Graph (discrete mathematics)  |
+|              Axiom              |
+|   Divide-and-conquer algorithm  |
+|         Linear equation         |
+|        Depth-first search       |
+|         Time complexity         |
+|      Operational semantics      |
+|         Search algorithm        |
+|       Dijkstra's algorithm      |
+|             Equation            |
+|            Complexity           |
+|            Linearity            |
+|       Axiomatic semantics       |
+|                 BellmanFord algorithm                 |
+|               Time              |
+|              Space              |
++---------------------------------+
++---------------------------------------------------------------+
+|                           Expansion                           |
++---------------------------------------------------------------+
+|                             SCISYS                            |
+|                          Apache Tika                          |
+|                     Sphinx (search engine)                    |
+|              Daylight saving time in the Americas             |
+|                        Spatial analysis                       |
+|                         Elasticsearch                         |
+|              Mario & Luigi: Bowser's Inside Story             |
+|                        Discovery Space                        |
+|                       Telespazio VEGA UK                      |
+|                  International Space Station                  |
+|               Space Generation Advisory Council               |
+|                           D-Lightsys                          |
+|                        Time management                        |
+|                    Tethers Unlimited, Inc.                    |
+|                            Chronon                            |
+|                             Clock                             |
+|                          Apache Solr                          |
+|                          Time travel                          |
+|                      Algorithms Unlocked                      |
+|                   Time in the United States                   |
+|                    Bangladesh Standard Time                   |
+|             British Columbia time plebiscite, 1972            |
+|                      Algorithms (journal)                     |
+|        List of nonlinear partial differential equations       |
+|         The 50 Most Extreme Places in Our Solar System        |
+|                        Caribbean Roots                        |
+|                         RetrievalWare                         |
+|                   Linguistics and Philosophy                  |
+|                            GLIMPSE                            |
+|                Object Oriented Data Technology                |
+|                    Expression (mathematics)                   |
+|                             ProBiS                            |
+|                     Nonlinearity (journal)                    |
+|                             Lucene                            |
+|                        Fictitious force                       |
+|             Wallops Flight Facility Visitor Center            |
+|                            Marotta                            |
+|                 Language in Thought and Action                |
+|                      Iranian Space Agency                     |
+|                   Introduction to Algorithms                  |
+|                    Combinatorial explosion                    |
+|                   Boomerang (Latin America)                   |
+|                       Outline of algebra                      |
+|              9 Algorithms that Changed the Future             |
+|                Journal of Biomedical Semantics                |
+|                          Time cycles                          |
+|                  Baryon acoustic oscillations                 |
+|                            Swiftype                           |
+|                         Turing machine                        |
+|                      A* search algorithm                      |
+|              Medical treatment during spaceflight             |
+|                             Xapian                            |
+|                    Glossary of graph theory                   |
+|                            Fiction                            |
+|                            Algolia                            |
+|                         Directed graph                        |
+|                           The Groop                           |
+|                           Atec, Inc.                          |
+|                        Complexity class                       |
+|    Israel National Museum of Science, Technology, and Space   |
+|                            Radiall                            |
+|                    The Incredible Penguins                    |
+|                          GraphHopper                          |
+|          Date and time notation in the United States          |
+| International Association for the Advancement of Space Safety |
+|                            Eternity                           |
+|                      LEMON (C++ library)                      |
+|                Charles Stark Draper Laboratory                |
+|                          The Dingoes                          |
+|                       List of algorithms                      |
+|           Daylight saving time in the United States           |
++---------------------------------------------------------------+
+# of New Concepts: 71
+

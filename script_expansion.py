@@ -47,7 +47,13 @@ WHERE {{
     ?recurso rdf:type ?person.
     FILTER regex(?person, foaf:Person).
     }}
-FILTER(!bound(?person))
+FILTER(!bound(?person)).
+OPTIONAL
+    {{
+    ?recurso rdf:type ?place.
+    FILTER regex(?place, dbo:PopulatedPlace).
+    }}
+FILTER(!bound(?place)).
 }}'''
 
 queryVecinos2='''PREFIX dbr: <http://dbpedia.org/resource/>
@@ -118,7 +124,7 @@ def get_uris(conceptos_dalgo):
         uris.append(uri_template.format(concepto=concepto))
     return uris
 
-def get_conceptos_vecinos(uris,path):
+def get_conceptos_vecinos(uris,path,original_concepts):
     from SPARQLWrapper import SPARQLWrapper, JSON
     sparql = SPARQLWrapper("http://localhost:8890/sparql")
     expansion=set()
@@ -133,7 +139,8 @@ def get_conceptos_vecinos(uris,path):
             entity=res['recurso']['value']
             entity=entity.split('/')[-1]
             entity=entity.replace('_',' ')
-            expansion.add(entity)
+            if not (any(s for s in original_concepts if entity in s) or any(s for s in original_concepts if s in entity)) :
+                expansion.add(entity)
     return expansion
 
 def generate_report(ruta, clases, num, path):
@@ -142,9 +149,9 @@ def generate_report(ruta, clases, num, path):
     expan = PrettyTable()
     originals= get_conceptos(ruta, clases, num)
     uris= get_uris(originals)
-    vecinos=get_conceptos_vecinos(uris,path)
+    vecinos=get_conceptos_vecinos(uris,path,originals)
 
-    with open('./expansion_{clases}_path_{path}.txt'.format(clases=clases, path=path), 'a+',encoding="utf-8") as file:
+    with open('./result/expansion_{clases}_path_{path}.txt'.format(clases=clases, path=path), 'a+',encoding="utf-8") as file:
         file.write('**Vecinos con expansion de {num}**\n'.format(num=num))
         orig.add_column("Originals", list(originals['entity_id']))
         expan.add_column("Expansion ", list(vecinos))

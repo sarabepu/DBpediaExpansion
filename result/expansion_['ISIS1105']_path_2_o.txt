@@ -1,0 +1,166 @@
+**Vecinos con expansion de 5**
++------------------------+
+|       Originals        |
++------------------------+
+|       Algorithm        |
+|    Greedy algorithm    |
+|  Dynamic programming   |
+| Shortest path problem  |
+| Analysis of algorithms |
++------------------------+
++--------------------------------------+
+|              Expansion               |
++--------------------------------------+
+|          List of algorithms          |
+|           Computer science           |
+| Computing Machinery and Intelligence |
++--------------------------------------+
+# of New Concepts: 3
+
+**Vecinos con expansion de 10**
++---------------------------------+
+|            Originals            |
++---------------------------------+
+|            Algorithm            |
+|         Greedy algorithm        |
+|       Dynamic programming       |
+|      Shortest path problem      |
+|      Analysis of algorithms     |
+|         Nonlinear system        |
+| Computational complexity theory |
+|            Semantics            |
+|   Graph (discrete mathematics)  |
+|              Axiom              |
++---------------------------------+
++--------------------------------------+
+|              Expansion               |
++--------------------------------------+
+|        Meaning and Necessity         |
+|   Way Out West (The Dingoes song)    |
+|             Mighty Kong              |
+|          Mikl%C3%B3s Ajtai           |
+|    Harnessing the Power of Wisdom    |
+|          List of algorithms          |
+|           Computer science           |
+| Computing Machinery and Intelligence |
+|          Michel Br%C3%A9al           |
+|            Carson (band)             |
+|       Axiom (Australian band)        |
+|      Natural Language Semantics      |
+|               Cam-Pact               |
++--------------------------------------+
+# of New Concepts: 13
+
+**Vecinos con expansion de 15**
++---------------------------------+
+|            Originals            |
++---------------------------------+
+|            Algorithm            |
+|         Greedy algorithm        |
+|       Dynamic programming       |
+|      Shortest path problem      |
+|      Analysis of algorithms     |
+|         Nonlinear system        |
+| Computational complexity theory |
+|            Semantics            |
+|   Graph (discrete mathematics)  |
+|              Axiom              |
+|   Divide-and-conquer algorithm  |
+|         Linear equation         |
+|        Depth-first search       |
+|         Time complexity         |
+|      Operational semantics      |
++---------------------------------+
++--------------------------------------+
+|              Expansion               |
++--------------------------------------+
+|          Polyphonic C Sharp          |
+|        Meaning and Necessity         |
+|   Way Out West (The Dingoes song)    |
+|             Mighty Kong              |
+|          Mikl%C3%B3s Ajtai           |
+|    Harnessing the Power of Wisdom    |
+|          List of algorithms          |
+|           Computer science           |
+| Computing Machinery and Intelligence |
+|          Michel Br%C3%A9al           |
+|            Carson (band)             |
+|       Axiom (Australian band)        |
+|      Natural Language Semantics      |
+|               Cam-Pact               |
++--------------------------------------+
+# of New Concepts: 14
+
+**Vecinos con expansion de 24**
++---------------------------------+
+|            Originals            |
++---------------------------------+
+|            Algorithm            |
+|         Greedy algorithm        |
+|       Dynamic programming       |
+|      Shortest path problem      |
+|      Analysis of algorithms     |
+|         Nonlinear system        |
+| Computational complexity theory |
+|            Semantics            |
+|   Graph (discrete mathematics)  |
+|              Axiom              |
+|   Divide-and-conquer algorithm  |
+|         Linear equation         |
+|        Depth-first search       |
+|         Time complexity         |
+|      Operational semantics      |
+|         Search algorithm        |
+|       Dijkstra's algorithm      |
+|             Equation            |
+|            Complexity           |
+|            Linearity            |
+|       Axiomatic semantics       |
+|                 BellmanFord algorithm                 |
+|               Time              |
+|              Space              |
++---------------------------------+
++--------------------------------------------+
+|                 Expansion                  |
++--------------------------------------------+
+|           Meaning and Necessity            |
+|               Coriolis force               |
+|                 D-Lightsys                 |
+|              Computer science              |
+|    Computing Machinery and Intelligence    |
+|               Carson (band)                |
+|                   Laptop                   |
+|             Polyphonic C Sharp             |
+|            Spatial association             |
+|      Way Out West (The Dingoes song)       |
+|           Communications in Iran           |
+|             NPS: No puede ser              |
+|               Somos tú y yo                |
+|              Local regression              |
+|     Space (Latin American TV channel)      |
+|        Somos tú y yo: un nuevo día         |
+|             Michel Br%C3%A9al              |
+|         Mario & Luigi: Dream Team          |
+|          Axiom (Australian band)           |
+|                 Fluidinfo                  |
+|      Cartoon Network (Latin America)       |
+|                  Cam-Pact                  |
+|                  Sematext                  |
+|                Mighty Kong                 |
+|          List of fictional genres          |
+|       Harnessing the Power of Wisdom       |
+|              Ram%C3%B3n Xirau              |
+| Sítio do Picapau Amarelo (animated series) |
+|         Natural Language Semantics         |
+|        Rotation around a fixed axis        |
+|               Safir (rocket)               |
+|                 Clock face                 |
+|                 Lucidworks                 |
+|             Mikl%C3%B3s Ajtai              |
+|             Centrifugal force              |
+|                 TNT Series                 |
+|             List of algorithms             |
+|              The Saddle Club               |
++--------------------------------------------+
+# of New Concepts: 38
+
